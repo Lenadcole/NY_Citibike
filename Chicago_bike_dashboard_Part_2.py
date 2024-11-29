@@ -68,7 +68,7 @@ elif page == "Weather component and bike usage":
     )
 
     fig_2.update_layout(
-    title = "Daily bike rides and termperatures in 2018",
+    title = "Daily bike rides and temperatures in 2018",
     height = 400
     )
 
